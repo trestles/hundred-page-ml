@@ -1,29 +1,29 @@
 1. Introduction
-  1.1. What is Machine Learning? 
-  1.2. Types of Learning
-    1.2.1. Supervised Learning
-    1.2.2. Unsupervised Learning
-    1.2.3. Semi-supervised learning 
-    1.2.4. Reinforcement Learning
-  1.3. How Supervised Learning Works
-  1.4. Why the Model Works on New Data
+  1.1. What is Machine Learning? 1
+  1.2. Types of Learning 1
+    1.2.1. Supervised Learning 1
+    1.2.2. Unsupervised Learning 2
+    1.2.3. Semi-supervised learning 2 
+    1.2.4. Reinforcement Learning 3
+  1.3. How Supervised Learning Works 3
+  1.4. Why the Model Works on New Data 7
 
-2. Notation and Definitions
-  2.1. Notation
-    2.1.1. Data Structures 
-    2.1.2. Capital Sigma Notation
-    2.1.3. Capital Pi Notation
-    2.1.4. Operations on Sets 
-    2.1.5. Operations on Vectors
-    2.1.6. Functions
-    2.1.7. Max and Arg Max
-    2.1.8. Assignment Operator
-    2.1.9. Derivatives and Gradient
-  2.2. Random Variable
-  2.3. Unbiased Estimators
-  2.4. Bayes' Rule
-  2.5. Parameter Estimation 
-  2.6. Paremeters vs Hyperparameters 
+2. Notation and Definitions 9
+  2.1. Notation 9
+    2.1.1. Data Structures 9
+    2.1.2. Capital Sigma Notation 10
+    2.1.3. Capital Pi Notation 11
+    2.1.4. Operations on Sets 11
+    2.1.5. Operations on Vectors 11
+    2.1.6. Functions 12
+    2.1.7. Max and Arg Max 13
+    2.1.8. Assignment Operator 14
+    2.1.9. Derivatives and Gradient 14
+  2.2. Random Variable 15
+  2.3. Unbiased Estimators 17
+  2.4. Bayes' Rule 17
+  2.5. Parameter Estimation 17
+  2.6. Paremeters vs Hyperparameters 18
   2.7. Classification vs Regression 19
   2.8. Model-Based vs Instance-Based Learning 19
   2.9. Shallow vs Deep Learning 20
@@ -93,4 +93,46 @@
   7.9. Semi-Supervised Learning 91
   7.10. One-Shot Learning 93
   7.11. Zero-Shot Learning 95
+
+8. Advanced Practice
+  8.1. Handling Unbalanced Datasets 97
+  8.2. Combining Models 99
+  8.3. Training Neural Networks 99
+  8.4. Advanced Regularization 100
+  8.5. Handling Multiple Inputs 101
+  8.6. Handling Multiple Outputs 102
+  8.7. Transfer Learning 102
+  8.8. Algorithmic Efficiency 103
+
+9. Unsupervised Learning 107
+  9.1. Density Estimation 107
+  9.2. Clustering 109
+    9.2.1. K-Means 110
+    9.2.2. DBSCAN and HDBSCAN 111
+    9.2.3. Determining the Number of Clusters 112
+    9.2.4. Other Clustering Algorithms 115
+  9.3. Dimensionality Reduction 118
+    9.3.1. Principal Component Analysis 119
+    9.3.2. UMAP 119
+  9.4. Outlier Detection 121
+
+10. Other Forms of Learning 123
+  10.1. Metric Learning 123
+  10.2. Learning to Rank 125
+  10.3. Learning to Recommend 127
+    10.3.1. Factorization Machines 128
+    10.3.2. Denoising Autoencoders 130
+  10.4. Self-Supervised Learning: Word Embeddings 131
+
+11. Conclusion 
+  11.1. What Wasn't Covered 133
+    11.1.1. Topic Modeling 133
+    11.1.2. Gaussian Processes 134
+    11.1.3. Generalized Linear Models 134
+    11.1.4. Probabilistic Graphical Models 134
+    11.1.5. Markov Chain Monte Carlo 135
+    11.1.6. Genetic Algorithms 135
+    11.1.7. Reinforcement Learning 136
+  11.2. Acknowledgements 136
+
 
